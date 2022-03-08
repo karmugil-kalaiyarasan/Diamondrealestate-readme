@@ -3,6 +3,7 @@
 ### Live Link:
 
 * Here is the live hostinger link for the website: 
+* Since it is a realworld live project I cannot share the website code without the clients acknowledgement.
 
 ### Project Details:
 
