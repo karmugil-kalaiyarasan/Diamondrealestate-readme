@@ -2,7 +2,7 @@
 
 ### Live Link:
 
-* Here is the live hostinger link for the website: https://diamondgroupofrealestate.com/
+* Here is the live hostinger link for the website: [https://diamondgroupofrealestate.com/](https://diamondgroupofrealestate.com/)
 * Since it is a realworld live project I cannot share the website code without the client's acknowledgement.
 
 ### Project Details:
